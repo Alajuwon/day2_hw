@@ -1,9 +1,109 @@
 body{
-	background-color:#808080;
+	background: url("images/openbook.jpg");
+	height: 2000px;
 }
 
-.img1{
-	margin-left: 460px;
-	
+h2{
+	text-align: center;
+	color: gray;
+	font-size: 50px;
+	font-family: fantasy;
+}
+.me1{
+	display: inline-block;
+	margin-left: 490px;
+	margin-bottom: 100px;
+}
+
+
+.bigbox{
+	text-align: center;
+	margin-bottom: 110px;
 
 }
+
+
+.codebox{
+	text-align: center;
+}
+
+.box1{
+	height: 400px;
+	width: 500px;
+	border: solid red;
+	border-radius: 145px;
+	background-color:gray;
+	display: inline-block;
+	font-size: 23px;
+	padding: 40px;
+}
+
+
+	.code1{
+	height: 100px;
+	width: 100px;
+	background-color: gray;
+	border: solid red 10px;
+	border-radius: 5px;
+	text-align: center;
+	display: inline;
+	color: red;
+	font-size:30px;
+	}
+
+	.code2{
+	height: 100px;
+	width: 100px;
+	background-color: gray;
+	border: solid orange 10px;
+	border-radius: 5px;
+	text-align: center;
+	display: inline;
+	color: orange;
+	font-size:40px;
+	}
+
+	.code3{
+	height: 100px;
+	width: 100px;
+	background-color: gray;
+	border: solid yellow 10px;
+	border-radius: 5px;
+	text-align: center;
+	display: inline;
+	color: yellow;
+	font-size:70px;
+	}
+
+	.code4{
+	height: 100px;
+	width: 100px;
+	background-color: gray;
+	border: solid blue 10px;
+	border-radius: 5px;
+	text-align: center;
+	display: inline;
+	color: blue;
+	font-size:40px;
+	}
+
+	.code5{
+	height: 100px;
+	width: 100px;
+	background-color: gray;
+	border: solid purple 10px;
+	border-radius: 5px;
+	text-align: center;
+	display: inline;
+	color: purple;
+	font-size:30px;
+	}
+
+	.meter{
+		text-align: center;
+		padding: 160px;
+		border: solid 2px;
+		border-radius: 5px;
+
+	}
+
