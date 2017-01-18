@@ -16,6 +16,7 @@ body{
 	max-width:1920px;
 	background-position-y:-788px; 
 	height: 360px;
+	margin-bottom: 60px;
 
 }
 
@@ -55,6 +56,9 @@ strong{
 }
 
 .but{
+	position: ;
+    top: -70px;
+    right: -12px;
 	
 }
 
@@ -69,6 +73,9 @@ p{
 #main-thang{
 	height: 2000px;
 	background-color: #f5f8fa;
+	border-radius: 12px
+
+
 }
 .box-content{
 
@@ -126,11 +133,15 @@ p{
 	width: 250px;
 	height: 263px;
 	background-color:#e1e8ed;
+	margin-top: 11px;
+	border: solid #f5f8fa;
+	border-radius: 14px
 }
 
 #middle-man{
 	width: 599px;
     height: 2000px;
+    border:solid #f5f8fa;
 }
 
 h3{
@@ -139,13 +150,15 @@ h3{
 
 .singup{
 	color: #8899a6;
-	margin-bottom: 30px;
+	margin-bottom: 14px;
 }
 
 #su{
 	color: #fff;
 	background-color: #1da1f2;
 	display: list-item;
+	list-style: none;
+	margin-top: 21px;
 
 }
 
@@ -164,11 +177,44 @@ h3{
 
 }
 
+.list-content{
+	height: 46px;
+    width: 563px;
+    background-color: white;
+    border-radius: 6px;
+    border-top: solid #f5f8fa;
+    margin-top: 11px;
+}
 
 
 
+.e{
+	float: left;
+	color: black;
+	font-size: 18px;
+	position: absolute;
+    right: 512px;
+    margin-top: inherit;
+}
+
+.f{
+	float: left;
+	color: #B0A289;
+	font-size: 18px;
+	position: absolute;
+	right: 361px;
+	margin-top: inherit;
+}
 
 
+.g{
+	float: left;
+	color: #B0A289;
+	font-size: 18px;
+	position: absolute;
+	right: 296px;
+	margin-top: inherit;
+}
 
 
 
