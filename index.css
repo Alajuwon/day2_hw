@@ -14,9 +14,8 @@ body{
 	background-size: 100%;
 	width: 100%;
 	max-width:1920px;
-	background-position-y:-788px; 
+	background-position-y:-742px; 
 	height: 360px;
-	margin-bottom: 60px;
 
 }
 
@@ -38,6 +37,7 @@ body{
 	height: 0px;
 	position: inherit;
 	top: -60px;
+
 }
 
 .numbers{
@@ -116,8 +116,6 @@ p{
 	font-size: 10px;
 	margin left:0px;
     width: 256px;
-
-    
 }
 
 p{
@@ -131,7 +129,7 @@ p{
 
 #last-man{
 	width: 250px;
-	height: 263px;
+	height: 210px;
 	background-color:#e1e8ed;
 	margin-top: 11px;
 	border: solid #f5f8fa;
@@ -148,10 +146,7 @@ h3{
 	color:#e1e8ed;
 }
 
-.singup{
-	color: #8899a6;
-	margin-bottom: 14px;
-}
+
 
 #su{
 	color: #fff;
@@ -163,30 +158,55 @@ h3{
 }
 
 
-
-
 .far-far{
 	height: 273px;
 	width: 250px;
 }
 
 .mainbox-content{
-	
-	height: 900px
-
-
+	 border: solid 1px #e1e8ed;
+		height: 900px;
+		border-radius: 7px;
 }
 
 .list-content{
-	height: 46px;
-    width: 563px;
+		height: 46px;
+    width: 562px;
     background-color: white;
     border-radius: 6px;
     border-top: solid #f5f8fa;
     margin-top: 11px;
+    border: solid 1px #e1e8ed;
 }
 
+.new-tweets{
+	 border: solid 1px #e1e8ed;
+	 text-align: center;
+	 color: #B0A289;
+	 height: 39px;
+	 padding: 10px;
+}
 
+.add-1{
+	height:298px;
+	border: solid 1px #e1e8ed;
+
+}
+
+.add-2{
+	height: 114px;
+	border: solid 1px #e1e8ed;
+}
+
+.add-3{
+	height: 114px;
+	border: solid 1px #e1e8ed;
+}
+
+.add-4{
+	height: 166px;
+	border: solid 1px #e1e8ed;
+}
 
 .e{
 	float: left;
